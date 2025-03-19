@@ -1,6 +1,6 @@
 ## DailyFresh
 
-**天天生鲜**：小型电商购物网站，基于<code>Python3.x</code>和<code>Django2.x</code>
+**天天生鲜**：小型电商购物网站.
 
 项目尽量使用Django内部提供的API，后台管理为Django自带的管理系统django-admin。适合Django的小型实战项目。
 
@@ -66,6 +66,3 @@
 
 感谢您的star
 
-### 联系：
-
-如需联系请前往博客园留言 <a href="https://www.cnblogs.com/welan/p/9231530.html" target="_blank">链接</a>
